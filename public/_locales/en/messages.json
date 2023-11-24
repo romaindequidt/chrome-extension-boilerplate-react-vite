@@ -1,10 +1,10 @@
 {
-  "extensionName": {
-    "description": "Extension name",
-    "message": "StunPass: secret manager"
-  },
   "extensionDescription": {
     "description": "Extension description",
-    "message": "StunPass help you to manage yours secrets by keep them in your possession"
+    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "Chrome extension boilerplate"
   }
 }

@@ -59,7 +59,7 @@ This is StunPass chrome extension using React and Typescript.
 ## Procedures: <a name="procedures"></a>
 
 1. Clone this repository.
-2. Change `name` and `description` in package.json => **Auto synchronize with manifest**
+2. Change `extensionDescription` and `extensionName` in messages.json
 3. Install pnpm globally: `npm install -g pnpm` (check your node version >= 16.6, recommended >= 18)
 4. Run `pnpm install`
 
