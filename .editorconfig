@@ -1,0 +1,12 @@
+# Ce fichier permet de surcharger la conf IntelliJ
+root = true
+
+[*]
+# Charset par défaut
+charset = utf-8
+# If file is modified, line endings will be converted to LF
+end_of_line = lf
+insert_final_newline = false
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = true

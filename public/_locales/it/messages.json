@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "description": "Extension name.",
+    "message": "StunPass: secret manager"
+  },
+  "extensionDescription": {
+    "description": "Extension description.",
+    "message": "StunPass help you to manage yours secrets by keep them in your possession"
+  }
+}
